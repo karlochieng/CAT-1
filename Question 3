@@ -1,0 +1,13 @@
+. #include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int value_salary = 10000;
+    float rate = (0.25 * value_salary);
+    int net_salary = (value_salary - rate);
+    cout << rate << end1;
+    cout << net_salary;
+    return 0;
+}
