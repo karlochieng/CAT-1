@@ -1,0 +1,16 @@
+.  #include <iostream>
+
+using namespace std;
+
+int main()
+{ 
+    
+    const double pie_n = 3.141592
+    int value_radius = 'r';
+    int value_height = 'h';
+    int area_cylinder = (2 * pie_n * 'h') + (2 * pie_name * 'r' * 'r');
+    int vol_cylinder = pie_name * 'r' * 'r' * 'h';
+    count << vol_cylinder : end1;
+    count << area_cylinder;
+    return 0;
+}
